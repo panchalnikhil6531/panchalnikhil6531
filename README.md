@@ -1,3 +1,4 @@
+![logo](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Panchal Nikhil S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding"width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
