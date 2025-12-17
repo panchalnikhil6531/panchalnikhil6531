@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Panchal Nikhil S</h1>
 <h3 align="center">Frontend Developer | IT Undergraduate | India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" 
-src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=panchalnikhil6531&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
