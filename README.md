@@ -1,7 +1,7 @@
 ![logo](nikhil.png.png)
 
 <h1 align="center">Hi 👋, I'm Panchal Nikhil S</h1>
-<h3 align="center">Frontend Developer | IT Undergraduate | India 🇮🇳</h3>
+<h3 align="center">Developer | IT Undergraduate | India 🇮🇳</h3>
 
 
 <p align="left">
@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech IT Student (3rd Semester)**
-- 💻 Passionate about **Frontend Development & Web Technologies**
+- 🎓 **B.Tech IT Student (4th Semester)**
+- 💻 Passionate about **Development & Web Technologies**
 - 🌱 Currently learning **Advanced JavaScript, React & UI/UX**
 - 🛠️ Strong foundation in **Programming & Problem Solving**
 - 🎯 Career Goal: **Frontend / Software Developer**
@@ -24,7 +24,7 @@
 ## 🧑‍💻 Skills & Technologies
 
 ### 💡 Programming Languages
-- C, C++, Java, Python, JavaScript
+- C, C++, Java, Python, JavaScript, web development, 
 
 ### 🌐 Web Technologies
 - HTML5, CSS3, JavaScript
@@ -35,6 +35,12 @@
 - Git & GitHub
 - VS Code
 - Windows / Linux (Basics)
+
+### Other skills
+- video editing
+- photo editing 
+- canva
+- other creative works 
 
 ---
 
@@ -63,6 +69,9 @@
 🔗 **LinkedIn Portfolio:**  
 [https://www.linkedin.com/in/nikhil-s-panchal-463a78319](https://www.linkedin.com/in/nikhil-s-panchal-463a78319)
 
+🔗 **Portfolio:**  
+[https://panchalnikhil6531.github.io/potfolio/](https://panchalnikhil6531.github.io/potfolio/)
+
 ---
 
 ## 📊 GitHub Stats
@@ -84,6 +93,6 @@
 ## 📫 Contact
 
 - 📧 Email: **nikhilsp7405@gmail.com**
-- 💬 Ask me about **Web Development, Python, Java, C/C++**
+- 💬 Ask me about **Development, Python, Java, C/C++**
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
