@@ -1,4 +1,4 @@
-![logo](nikhil.png)
+![logo](nikhil.png.png)
 
 <h1 align="center">Hi 👋, I'm Panchal Nikhil S</h1>
 <h3 align="center">Frontend Developer | IT Undergraduate | India 🇮🇳</h3>
