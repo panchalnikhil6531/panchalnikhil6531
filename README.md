@@ -37,10 +37,10 @@
 - Windows / Linux (Basics)
 
 ### Other skills
-- video editing
-- photo editing 
-- canva
-- other creative works 
+- Video Editing
+- Photo Editing 
+- Canva
+- Creative Works 
 
 ---
 
@@ -65,7 +65,7 @@
 
 ## 📂 Projects
 
-👉 Check out my projects on GitHub  
+👉 Check Out My Projects On GitHub  
 🔗 **LinkedIn Portfolio:**  
 [https://www.linkedin.com/in/nikhil-s-panchal-463a78319](https://www.linkedin.com/in/nikhil-s-panchal-463a78319)
 
