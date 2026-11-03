@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://panchalnikhil6531.github.io/potfolio/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://potfolio-beta-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/nikhil-s-panchal-463a78319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/nikhilspanchal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="mailto:nikhilsp7405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -70,19 +70,29 @@ I care about writing maintainable code, shipping products that people actually u
 
 **Mobile, Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,windows,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,cloudflare,vercel,windows,linux" alt="Tools" />
 </p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Developer Portfolio** | Responsive personal portfolio showcasing skills, projects, certifications and experience | HTML · CSS · JavaScript | [Live](https://potfolio-beta-two.vercel.app/) · [Code](https://github.com/panchalnikhil6531/potfolio) |
+| **JS Info Tracker** | Full stack learning-progress tracker for javascript.info with user accounts, authentication and a community leaderboard | Node.js · Express · MongoDB | [Live](https://jsinfo-tracker.onrender.com/) · [Code](https://github.com/panchalnikhil6531/jsinfo-tracker) |
+| **Intern Logbook** | Daily work log for interns — record what you did each day and see what everyone else has done | JavaScript · Cloudflare Workers | [Live](https://intern-logbook.nikhilsp7405.workers.dev/) · [Code](https://github.com/panchalnikhil6531/logs) |
+| **ClipFetch** | Paste a link and save videos in seconds — a fast, minimal video downloader | JavaScript · Cloudflare Workers | [Live](https://clipfetch.nikhilsp7405.workers.dev/) |
+| **QR Code Generator** | Free QR code generator — create QR codes instantly, no sign-up required | JavaScript · Cloudflare Workers | [Live](https://qr-code-generator.nikhilsp7405.workers.dev/) |
+| **US Life** | Full stack web app with a Node.js/Express REST API, secure authentication and MongoDB | Node.js · Express · MongoDB | [Live](https://intenship-training.vercel.app/) · [Code](https://github.com/panchalnikhil6531/intenship-training) |
+| **Office Manager** | Cross-platform application for managing day-to-day office operations | Flutter · Dart | [Code](https://github.com/panchalnikhil6531/Office-Manager) |
+| **Python Projects** | A collection of Python programs and mini-projects for learning and reference | Python | [Code](https://github.com/panchalnikhil6531/my-python-projects) |
+
+---|---|---|
 | [**JS Info Tracker**](https://github.com/panchalnikhil6531/jsinfo-tracker) | Full stack learning-progress tracker for javascript.info with user accounts, authentication and a community leaderboard | Node.js · Express · MongoDB · JS |
 | [**Backend API**](https://github.com/panchalnikhil6531/intenship-training) | RESTful backend providing secure authentication, database management and API services for web applications | Node.js · Express · MongoDB |
 | [**Office Manager**](https://github.com/panchalnikhil6531/Office-Manager) | Cross-platform application for managing day-to-day office operations | Flutter · Dart |
-| [**Developer Portfolio**](https://github.com/panchalnikhil6531/potfolio) | Responsive personal portfolio showcasing skills, projects, certifications and experience — [live](https://panchalnikhil6531.github.io/potfolio/) | HTML · CSS · JavaScript |
+| [**Developer Portfolio**](https://github.com/panchalnikhil6531/potfolio) | Responsive personal portfolio showcasing skills, projects, certifications and experience — [live](https://potfolio-beta-two.vercel.app/) | HTML · CSS · JavaScript |
 | [**US-AIRPODS.IN**](https://github.com/panchalnikhil6531/US-AIRPODS.IN) | E-commerce style product website for AirPods and wireless devices | HTML · CSS |
 | [**Python Projects**](https://github.com/panchalnikhil6531/my-python-projects) | A collection of Python programs and mini-projects for learning and reference | Python |
 
@@ -111,6 +121,6 @@ I'm always happy to discuss new opportunities, projects, or ideas.
 
 - **Email:** [nikhilsp7405@gmail.com](mailto:nikhilsp7405@gmail.com)
 - **LinkedIn:** [nikhil-s-panchal](https://www.linkedin.com/in/nikhil-s-panchal-463a78319/)
-- **Portfolio:** [panchalnikhil6531.github.io/potfolio](https://panchalnikhil6531.github.io/potfolio/)
+- **Portfolio:** [potfolio-beta-two.vercel.app](https://potfolio-beta-two.vercel.app/)
 
 <p align="center"><i>If you find my work useful, consider giving a repository a ⭐</i></p>
