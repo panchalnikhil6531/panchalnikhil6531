@@ -21,7 +21,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=panchalnikhil6531&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/panchalnikhil6531?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-2ea44f?style=flat" alt="Open to work" />
 </p>
 
 ---
