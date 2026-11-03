@@ -79,20 +79,20 @@ I care about writing maintainable code, shipping products that people actually u
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| **Developer Portfolio** | Responsive personal portfolio showcasing skills, projects, certifications and experience | HTML · CSS · JavaScript | [Live](https://potfolio-beta-two.vercel.app/) · [Code](https://github.com/panchalnikhil6531/potfolio) |
+| **Developer Portfolio** | Responsive personal portfolio showcasing skills, projects, certifications and experience | HTML · CSS · JavaScript | [Live](https://potfolio-beta-two.vercel.app/) · [Code](https://github.com/panchalnikhil6531/portfolio) |
 | **JS Info Tracker** | Full stack learning-progress tracker for javascript.info with user accounts, authentication and a community leaderboard | Node.js · Express · MongoDB | [Live](https://jsinfo-tracker.onrender.com/) · [Code](https://github.com/panchalnikhil6531/jsinfo-tracker) |
-| **Intern Logbook** | Daily work log for interns — record what you did each day and see what everyone else has done | JavaScript · Cloudflare Workers | [Live](https://intern-logbook.nikhilsp7405.workers.dev/) · [Code](https://github.com/panchalnikhil6531/logs) |
-| **ClipFetch** | Paste a link and save videos in seconds — a fast, minimal video downloader | JavaScript · Cloudflare Workers | [Live](https://clipfetch.nikhilsp7405.workers.dev/) |
-| **QR Code Generator** | Free QR code generator — create QR codes instantly, no sign-up required | JavaScript · Cloudflare Workers | [Live](https://qr-code-generator.nikhilsp7405.workers.dev/) |
-| **US Life** | Full stack web app with a Node.js/Express REST API, secure authentication and MongoDB | Node.js · Express · MongoDB | [Live](https://intenship-training.vercel.app/) · [Code](https://github.com/panchalnikhil6531/intenship-training) |
+| **Intern Logbook** | Daily work log for interns — record what you did each day and see what everyone else has done | JavaScript · Cloudflare Workers | [Live](https://intern-logbook.nikhilsp7405.workers.dev/) · [Code](https://github.com/panchalnikhil6531/intern-logbook) |
+| **ClipFetch** | Paste a link and save videos in seconds — video downloader with a self-serve advertiser flow and admin ad manager | Node.js · Cloudflare Workers · D1 | [Live](https://clipfetch.nikhilsp7405.workers.dev/) · [Code](https://github.com/panchalnikhil6531/clipfetch) |
+| **QRklar – QR Code Generator** | SEO-optimised German-language QR code generator for links, Wi-Fi and business cards — no sign-up required | JavaScript · Cloudflare Workers | [Live](https://qr-code-generator.nikhilsp7405.workers.dev/) · [Code](https://github.com/panchalnikhil6531/QR-Code-Generator) |
+| **US Life** | Full stack web app with a Node.js/Express REST API, secure authentication and MongoDB | Node.js · Express · MongoDB | [Live](https://intenship-training.vercel.app/) · [Code](https://github.com/panchalnikhil6531/us-life) |
 | **Office Manager** | Cross-platform application for managing day-to-day office operations | Flutter · Dart | [Code](https://github.com/panchalnikhil6531/Office-Manager) |
 | **Python Projects** | A collection of Python programs and mini-projects for learning and reference | Python | [Code](https://github.com/panchalnikhil6531/my-python-projects) |
 
 ---|---|---|
 | [**JS Info Tracker**](https://github.com/panchalnikhil6531/jsinfo-tracker) | Full stack learning-progress tracker for javascript.info with user accounts, authentication and a community leaderboard | Node.js · Express · MongoDB · JS |
-| [**Backend API**](https://github.com/panchalnikhil6531/intenship-training) | RESTful backend providing secure authentication, database management and API services for web applications | Node.js · Express · MongoDB |
+| [**Backend API**](https://github.com/panchalnikhil6531/us-life) | RESTful backend providing secure authentication, database management and API services for web applications | Node.js · Express · MongoDB |
 | [**Office Manager**](https://github.com/panchalnikhil6531/Office-Manager) | Cross-platform application for managing day-to-day office operations | Flutter · Dart |
-| [**Developer Portfolio**](https://github.com/panchalnikhil6531/potfolio) | Responsive personal portfolio showcasing skills, projects, certifications and experience — [live](https://potfolio-beta-two.vercel.app/) | HTML · CSS · JavaScript |
+| [**Developer Portfolio**](https://github.com/panchalnikhil6531/portfolio) | Responsive personal portfolio showcasing skills, projects, certifications and experience — [live](https://potfolio-beta-two.vercel.app/) | HTML · CSS · JavaScript |
 | [**US-AIRPODS.IN**](https://github.com/panchalnikhil6531/US-AIRPODS.IN) | E-commerce style product website for AirPods and wireless devices | HTML · CSS |
 | [**Python Projects**](https://github.com/panchalnikhil6531/my-python-projects) | A collection of Python programs and mini-projects for learning and reference | Python |
 
